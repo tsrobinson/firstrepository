@@ -1,3 +1,3 @@
 print("hello world!")
 print("hello moon!")
-print("hello everyone in main!")
+print("hello everyone!")
