@@ -1,3 +1,3 @@
 print("hello world!")
 print("hello moon!")
-print("Hi Tom!")
+print("Hi comet!")
